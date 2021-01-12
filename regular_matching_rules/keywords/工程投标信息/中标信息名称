@@ -1,0 +1,70 @@
+中标供应商名称
+供应商名称
+中标单位名称
+中标人
+中标单位
+中标人名称
+第一中签人
+承包人名称
+中签人名称  # zhangxing/20201202(http://jsggzy.jszwfw.gov.cn/jyxx/003001/003001008/20200511/72da43d3-69ed-4434-8c1e-03f18f14876b.html)
+中标供应商
+中标服务供应商
+联合体牵头方
+项目实施机构
+分包名称
+中标候选人
+候选人
+采购项目的名称
+中标供应商为
+成交供应商
+中标意向单位 #http://www.ccgp-jiangsu.gov.cn/ggxx/zgysgg/../zbgg/./changzhou/./202005/t20200512_663457.html
+主要成交标的 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/changzhou/202005/t20200512_663457.html
+供应商名称1 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/nanjing/202008/t20200811_707741.html
+#供应商名称2
+#供应商名称3
+供应商
+
+施工单位 # zhangxing //http://jsggzy.jszwfw.gov.cn/jyxx/003001/003001008/20201110/e35fd4d0-bd2b-4053-81a4-d747602f6cc9.html
+# zhangxing//这里把拟定中标人都划分到中标人，否则无法通过checkjson校验，另一种方法是添加checkjson逻辑，中标信息名称或者拟定中标人有其一即可,和锋哥商量后选择前者
+拟定中标人
+中标人为 # zhangxing // http://jsggzy.jszwfw.gov.cn/jyxx/003003/003003004/20181016/9fe44fd7-0e31-4d36-8280-b070150b532c.html
+拟中标人名称  # zhangxing // http://jsggzy.jszwfw.gov.cn/jyxx/003002/003002004/20191017/a72730c8-e28a-4f2b-b78f-cb6e47cf34c2.html
+拟中标单位 # zhangxing/20201211/(http://jsggzy.jszwfw.gov.cn/jyxx/003003/003003004/20181101/ed0728e5-f5ac-41dc-a78b-8f768f33e984.html)
+中标入围单位 # zhangxing //http://jsggzy.jszwfw.gov.cn/jyxx/003001/003001008/20181009/0a8fb9bb-c251-4edd-87c8-ab5bde84bdd4.html
+# 中标候选人名称  # zhangxing // http://jsggzy.jszwfw.gov.cn/jyxx/003003/003003004/20190929/d90d0970-ee7f-4b53-8efb-202f39f606fc.html
+
+联合体成员方
+中标商
+
+中标商
+中选人 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/shengji/202004/t20200415_654401.html
+中标范围和内容 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/shengji/201912/t20191230_636858.html
+中标人一 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/yangzhou/202001/t20200113_639685.html
+中标单位与价格 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/yancheng/201909/t20190902_517033.html
+
+中标入围供应商一 # http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/shengji/202001/t20200108_638952.html
+包1中标候选人1 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/shengji/201912/t20191206_627619.html
+中标候选人名称 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/shengji/201911/t20191128_624476.html
+#废标信息 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/suzhou/202008/t20200807_705858.html
+#废标理由 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/nanjing/202003/t20200324_648917.html
+
+中标单位与价格 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/yancheng/201909/t20190902_517033.html
+项目名称 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/huaian/202003/t20200306_645641.html
+#本项目废标，原因如下 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/zhenjiang/201909/t20190903_517442.html
+结果公告 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/zhenjiang/201909/t20190904_517954.html
+成交信息 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/zhenjiang/201910/t20191011_528048.html
+入围供应商如下 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/huaian/202004/t20200424_657783.html
+第一包 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/taizhou/202007/t20200707_689425.html
+中标供货商名称 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/wuxi/202011/t20201127_760324.html
+中标人 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/shengji/201911/t20191122_622400.html
+招标结果信息 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/shengji/201909/t20190912_521320.html
+成交单位 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/suzhou/202006/t20200603_673599.html
+成交供应商名称 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/shengji/201910/t20191010_527605.html
+入围供应商一名称 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/nanjing/201909/t20190903_517371.html
+#公开招标失败原因 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/suzhou/202005/t20200522_669192.html
+推荐中标候选人 #http://www.ccgp-jiangsu.gov.cn/ggxx/zbgg/lianyungang/201912/t20191217_632075.html
+
+成交人 # lim 0105 https://www.jszbtb.com/#/bulletindetail/WinBidBulletin/138247
+
+中标人排序推荐如下 #lim 0106 https://www.jszbtb.com/#/bulletindetail/WinBidBulletin/122324
+中标人推荐如下 #https://www.jszbtb.com/#/bulletindetail/WinBidBulletin/91661
